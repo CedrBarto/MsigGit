@@ -8,7 +8,7 @@ namespace EssaiGitHub
         {
             Console.WriteLine("Hello MSIG !");
 
-            Console.WriteLine("CodeurPassionne");
+            Console.WriteLine("Ajout d'un commit nommé: CedrCommit");
 
             Console.ReadLine();
         }
